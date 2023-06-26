@@ -70,11 +70,12 @@ export const Colour = () => {
       <div
         style={{
           backgroundColor: color,
-          width: "100vh",
+          width: "200vh",
           height: "100vh",
           overflow: "-moz-hidden-unscrollable",
         }}
       ></div>
+      
     </>
   );
 };
